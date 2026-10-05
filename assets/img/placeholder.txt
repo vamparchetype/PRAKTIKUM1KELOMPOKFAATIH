@@ -1,8 +1,0 @@
-Letakkan foto anggota di folder ini:
-- foto1.jpg
-- foto2.jpg
-- foto3.jpg
-- foto4.jpg
-
-Ukuran rekomendasi: 400x400 piksel
-Format: JPG atau PNG
